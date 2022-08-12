@@ -12,3 +12,6 @@ Some details about deployment :)
 
 ## How to contribute
 
+### Copyright
+
+2022 Git.Training.
