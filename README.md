@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work, but for educational purposes.
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes from myFeature branch too.
 
 ## Purpose
 
