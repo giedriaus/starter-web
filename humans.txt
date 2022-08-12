@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Giedrius Zavadskas -- giedrius.zavadskas@gmail.com -- @giedrius_zv
 
 # THANKS
 
