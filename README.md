@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work, but for educational purposes.
-Updating for emergency fix after stashing.
+Updating for emergency fix after stashing. Make change for multiple stash example.
 
 ## Purpose
 
